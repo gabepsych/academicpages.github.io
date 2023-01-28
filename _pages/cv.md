@@ -11,7 +11,7 @@ redirect_from:
 
 CV
 ======
-You can download a full CV here.
+You can download my full CV [here](https://github.com/gabepsych/academicpages.github.io/files/CV_GabeLeon.pdf).
 
 Education
 ======
