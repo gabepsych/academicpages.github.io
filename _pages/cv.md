@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Psychology, Grand Canyon University, 2017
+* M.C. in Clinical Mental Health Counseling, Arizona State University, 2019
+* Ph.D in Psychology (Clinical Science), University of Southern California, 2027 (expected)
 
 Work experience
 ======
