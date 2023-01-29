@@ -12,7 +12,7 @@ author_profile: true
 2022
 =====
 
-León, G. A. & Randall, A. K. (2022). Methodological and statistical considerations in studying sexual minority and gender diverse relationships. In Oxford Research Encyclopedia of Communication.  https://doi.org/10.1093/acrefore/9780190228613.013.1360 
+*León, G. A.* & Randall, A. K. (2022). Methodological and statistical considerations in studying sexual minority and gender diverse relationships. In Oxford Research Encyclopedia of Communication.  https://doi.org/10.1093/acrefore/9780190228613.013.1360 
 
 Gerton, J. M., Aoyagi, K., León, G. A., Bludworth, J., Spille, S., & Holzapfel, J. (2022). Outcomes in clients transitioning from in-person counseling to telehealth counseling with trainees. Counseling and Psychotherapy Research. https://doi.org/10.1002/capr.12541 (Impact Score: 1.74)
 
