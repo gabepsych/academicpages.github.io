@@ -32,4 +32,4 @@ Prior to attending USC, I earned a Master of Counseling from Arizona State Unive
 
 At USC, I provide therapy and neuropsychological services through the USC Psychological Services Center (PSC), where I am supervised and trained in culturally-responsive CBT, DBT, and ACT. 
 
-In collaboration with colleagues at USC, I have helped to design and implement a process-based parenting class for individuals exiting out of prison. We are currently offering this class to members of the Los Angeles community at Homeboy Industries, the largest gang rehabilitation center in the world.
+In collaboration with colleagues at USC, I have helped to design and implement a process-based parenting class for Homeboy Industries, the largest gang rehabilitation center in the world. We visit Homeboy Industries each week to provide this class to members of the Los Angeles community who have recently exited from prison. 
