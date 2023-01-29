@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Gabriel A. León ("Gabe") and I am a second year PhD student at University of Southern California (USC), first-generation Latino college graduate, and a native of Southern New Mexico. As an aspiring clinical scientist, I aim to conduct research that informs the development of personalized, family-focused behavioral health interventions that meet the needs of marginalized communities impacted by chronic stress and trauma.
+My name is Gabriel A. León ("Gabe") and I am a second year PhD student at University of Southern California (USC), a first-generation Latino college graduate, and a native of Southern New Mexico. As an aspiring clinical scientist, I aim to conduct research that informs the development of personalized, family-focused behavioral health interventions that meet the needs of marginalized communities impacted by chronic stress and trauma.
 
 I am currently a graduate research assistant working in the [Neuroendocrinology of Social Ties (NEST) Laboratory](https://dornsife.usc.edu/nestlab/research/) under the mentorship of Dr. Darby E. Saxbe.
 
