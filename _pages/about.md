@@ -24,7 +24,7 @@ Current Projects
 =====
 * My most recent work focuses on the deleterious effects of chronic stress on the interpersonal emotion dynamics of caregivers and infants during early childhood.
 
-* I am collecting data via ambulatory assessment (i.e., EMA, sleep actigraphy) from a diverse sample of families to study the impact of early life adversity and peripartum trauma on stress coping during daily life.
+* In another project, I am collecting data via ambulatory assessment (i.e., EMA, sleep actigraphy) from a diverse sample of families to study the impact of early life adversity and peripartum trauma on stress coping during daily life.
 
 Clinical Work
 =====
