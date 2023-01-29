@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full CV [here](https://github.com/gabepsych/academicpages.github.io/files/GabrielLeon_CV.pdf).
+You can download my full CV [here](https://github.com/gabepsych/academicpages.github.io/raw/master/files/GabrielLeon_CV.pdf).
 
 
 Education
