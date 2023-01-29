@@ -28,8 +28,8 @@ Current Projects
 
 Clinical Work
 =====
-Prior to attending USC, I earned a Master of Counseling from Arizona State University (ASU) and completed over 240 direct hours working with teenagers at an adolescent outpatient clinic in Phoenix, AZ. I provided individual therapy for clients ages 13-25 and co-led three intensive outpatient groups for substance use issues, social anxiety and obsessive compulsive disorder, and self-injurious behavior. 
+Prior to attending USC, I earned a Master of Counseling from Arizona State University (ASU) and completed over 240 direct service hours at an adolescent outpatient clinic in Phoenix, AZ. I provided individual therapy for clients ages 13-25 and co-led three intensive outpatient groups for substance use disorder, social anxiety and obsessive compulsive disorder, and self-injurious behavior. 
 
 At USC, I provide therapy and neuropsychological services through the USC Psychological Services Center (PSC), where I am supervised and trained in culturally-responsive CBT, DBT, and ACT. 
 
-I have also helped to design and implement a process-based parenting class for individuals exiting out of prison. We are currently offering this parenting group for folks at Homeboy Industries, the largest gang rehabilitation center in the world.
+In collaboration with colleagues at USC, I have helped to design and implement a process-based parenting class for individuals exiting out of prison. We are currently offering this class to members of the Los Angeles community at Homeboy Industries, the largest gang rehabilitation center in the world.
