@@ -25,3 +25,11 @@ Current Projects
 * My most recent work focuses on the deleterious effects of chronic stress on the interpersonal emotion dynamics of caregivers and infants during early childhood.
 
 * In another project, I am collecting data via ambulatory assessment (i.e., EMA, sleep actigraphy) from a diverse sample of families to study the impact of early life adversity and peripartum trauma on stress coping during daily life.
+
+Clinical Work
+=====
+Prior to attending USC, I earned a Master of Counseling from Arizona State University (ASU) and completed over 240 direct hours working with teenagers at an adolescent outpatient clinic in Phoenix, AZ. I provided individual therapy for clients ages 13-25 and co-led three intensive outpatient groups for substance use issues, social anxiety and obsessive compulsive disorder, and self-injurious behavior. 
+
+At USC, I provide therapy and neuropsychological services through the USC Psychological Services Center (PSC), where I am supervised and trained in culturally-responsive CBT, DBT, and ACT. 
+
+I have also helped to design and implement a process-based parenting class for individuals exiting out of prison. We are currently offering this parenting group for folks at Homeboy Industries, the largest gang rehabilitation center in the world.
