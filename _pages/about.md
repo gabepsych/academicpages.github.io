@@ -12,7 +12,7 @@ My name is Gabriel A. León ("Gabe") and I am a first-generation Latino college 
 
 I am currently a second year PhD student in Psychology at University of Southern California (USC) and a graduate research assistant working in the [Neuroendocrinology of Social Ties (NEST) Laboratory](https://dornsife.usc.edu/nestlab/research/) under the mentorship of Dr. Darby E. Saxbe.
 
-As an aspiring clinical psychology, I aim to conduct research that informs the development of personalized, family-focused behavioral health interventions that meet the needs of marginalized communities impacted by chronic stress and trauma.
+As an aspiring clinical psychology, I aim to conduct research that informs personalized, family-focused behavioral health interventions that meet the needs of marginalized communities impacted by chronic stress and trauma.
 
 Research Interests
 =====
@@ -24,12 +24,12 @@ Current Projects
 =====
 * My most recent work focuses on the deleterious effects of chronic stress on the interpersonal emotion dynamics of caregivers and infants during early childhood.
 
-* In another project, I am collecting data via ambulatory assessment (i.e., EMA, sleep actigraphy) from a diverse sample of families to study the impact of early life adversity and peripartum trauma on stress coping during daily life.
+* I am collecting data via ambulatory assessment (i.e., EMA, sleep actigraphy) from a diverse sample of families to study the impact of early life adversity and peripartum trauma on stress coping during daily life.
 
 Clinical Work
 =====
-Prior to attending USC, I earned a Master of Counseling from Arizona State University (ASU) and completed over 240 direct service hours at an adolescent outpatient clinic in Phoenix, AZ. I provided individual therapy for clients ages 13-25 and co-led three intensive outpatient groups for substance use disorder, social anxiety and obsessive compulsive disorder, and self-injurious behavior. 
+Prior to attending USC, I completed over 240 direct service hours while working at an adolescent outpatient clinic in Phoenix, AZ. I provided individual therapy for clients ages 13-25 and co-led three intensive outpatient groups for substance use disorder, social anxiety and obsessive compulsive disorder, and self-injurious behavior. 
 
-At USC, I provide therapy and neuropsychological services through the USC Psychological Services Center (PSC), where I am supervised and trained in culturally-responsive CBT, DBT, and ACT. 
+At USC, I provide therapy and neuropsychological services through the USC Psychological Services Center (PSC), where I am supervised and trained in culturally-responsive cognitive-behavioral therapy (CBT), dialectical behavioral therapy (DBT), and acceptance and committment therapy (ACT). 
 
-In collaboration with colleagues at USC, I have helped to design and implement a process-based parenting class for Homeboy Industries, the largest gang rehabilitation center in the world. We visit Homeboy Industries each week to provide this class to members of the Los Angeles community who have recently exited from prison. 
+In collaboration with colleagues at USC, I have helped to design and implement a process-based parenting class for Homeboy Industries, the largest gang rehabilitation center in the world. We visit Homeboy Industries each week to offer this class to members of the Los Angeles community who have recently exited from prison. 
