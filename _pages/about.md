@@ -22,6 +22,6 @@ My research leverages biological, physiological, and behavioral data collected a
 
 Current Projects
 =====
-* My recent work in the NEST Lab focuses on the deleterious effects of chronic stress on the interpersonal emotion dynamics of caregivers and infants during early childhood.
+* My most recent work focuses on the deleterious effects of chronic stress on the interpersonal emotion dynamics of caregivers and infants during early childhood.
 
-* In another project, I am collecting data via ambulatory assessment (i.e., EMA, sleep actigraphy) from a diverse sample of families to study the impact of early life adversity and trauma across the transition to parenthood on stress coping during daily life.
+* In another project, I am collecting data via ambulatory assessment (i.e., EMA, sleep actigraphy) from a diverse sample of families to study the impact of early life adversity and peripartum trauma on stress coping during daily life.
