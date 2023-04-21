@@ -1,16 +1,16 @@
----
+
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
----
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-#2022
-#=====
+2022
+=====
 
 **León, G. A.** & Randall, A. K. (2022). Methodological and statistical considerations in studying sexual minority and gender diverse relationships. In Oxford Research Encyclopedia of Communication.  https://doi.org/10.1093/acrefore/9780190228613.013.1360 
 
