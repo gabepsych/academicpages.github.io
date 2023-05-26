@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gabriel A. León, MA"
+title                    : "Gabriel A. León, MS"
 title_separator          : "-"
 name                     : &name "Gabriel A. León"
 description              : &description "PhD Student in Psychology at the University of Southern California"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gabriel A. León"
-  avatar           : "2023.03.07_profile.png"
+  avatar           : "profile2023.05.25.JPG"
   bio              : "PhD Student in Psychology at the University of Southern California"
   location         : "Los Angeles, CA"
   employer         :
