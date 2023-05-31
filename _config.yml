@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gabriel A. León, MS"
+title                    : "Gabriel A. León"
 title_separator          : "-"
 name                     : &name "Gabriel A. León"
-description              : &description "PhD Student in Psychology at the University of Southern California"
+description              : &description "PhD Student in Clinical Psychology at the University of Southern California"
 url                      : https://gabrielleon.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gabriel A. León"
   avatar           : "profile2023.05.25.JPG"
-  bio              : "PhD Student in Psychology at the University of Southern California"
+  bio              : "PhD Student in Clinical Psychology at the University of Southern California"
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : 
