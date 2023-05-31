@@ -9,5 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full CV [here](https://github.com/gabepsych/academicpages.github.io/raw/master/files/GabrielLeon_CV.pdf).
+If the embedded PDF doesn't load, you can download my full CV [here](https://github.com/gabepsych/academicpages.github.io/raw/master/GabrielLeon_CV.pdf).
 
+<embed src="https://gabrielleon.me/GabrielLeon_CV.pdf" type="application/pdf" width="100%" />
