@@ -16,15 +16,15 @@ As an aspiring clinical psychologist, I aim to conduct research that informs per
 
 Research Interests
 =====
-Broadly, I study interpersonal dynamics within families and close relationships - with a specific focus on stress. Namely, I am interested in 1) how close relationships within the family system serve to regulate stress and scaffold child development, and 2) how relationships themselves may deteriorate because of chronic stress exposure and trauma. 
-
-My research leverages biological, physiological, and behavioral data collected across multiple timescales.
+Broadly, I study interpersonal dynamics within families and close relationships - with a specific focus on stress. Namely, I am interested in the biopsychosocial processes by which stress propogates and remits within the family system. I aim to leverage multimodal, biobehavioral data streams to understand targets of interventions that support resilience in parents and children coping with traumatic and chronic stress.
 
 Current Projects
 =====
-* My most recent work focuses on the deleterious effects of chronic stress on the interpersonal emotion dynamics of caregivers and infants during early childhood.
+* My most recent work focuses on the deleterious effects of chronic stress on exchange of positive emotions between parents and infants at six-months postpartum.
 
-* In another project, I am collecting data via ambulatory assessment (i.e., EMA, sleep actigraphy) from a diverse sample of families to study the impact of early life adversity and peripartum trauma on stress coping during daily life.
+* In another project, I am working on identifying the biopsychosocial correlates of hair cortisol concentration - a non-invasive measure of HPA axis output and possibly a marker of chronic stress. To answer this question, I am applying contemporary machine-learning techniques (e.g., random forest regression) to a high-dimensional cross-sectional sample of mothers and infants from across the United States. 
+* 
+*  am collecting data via ambulatory assessment (i.e., EMA, sleep actigraphy) from a diverse sample of families to study the impact of early life adversity and peripartum trauma on stress coping during daily life.
 
 Clinical Work
 =====
