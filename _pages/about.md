@@ -32,5 +32,5 @@ Prior to attending USC, I worked for [Embark Behavioral Health](https://www.emba
 
 At USC, I provide therapy and neuropsychological services through the [USC Psychological Services Center (PSC)](https://dornsife.usc.edu/usc-psc), where I am supervised and trained in culturally-responsive cognitive-behavioral therapy (CBT), dialectical behavioral therapy (DBT), and acceptance and committment therapy (ACT). 
 
-Every Wednesday, I visit [Homeboy Industries](https://homeboyindustries.org/), the largest gang rehabilitation center in the world, to co-faciliate a psychoeducation and process group for formerly incarcerated parents with histories of gang-involvement. Being honoring with the opportunity to work with these families fills my heart with indescribable joy each week.
+Every Wednesday, I visit [Homeboy Industries](https://homeboyindustries.org/), the largest gang rehabilitation center in the world, to co-faciliate a psychoeducation and process group for formerly incarcerated parents with histories of gang-involvement. Getting the opportunity to work with these families fills my heart with indescribable joy each week.
 
