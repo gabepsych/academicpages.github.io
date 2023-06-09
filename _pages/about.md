@@ -28,7 +28,7 @@ Current Projects
 
 Clinical Work
 =====
-Prior to attending USC, I worked for an [adolescent outpatient clinic](https://www.embarkbh.com/locations/outpatient-therapy-phoenix-arizona/) in Phoenix, AZ. I provided individual therapy for clients ages 13-25 and co-led three intensive outpatient groups for substance use disorder, social anxiety and obsessive compulsive disorder, and self-injurious behavior. 
+Prior to attending USC, I worked for [Embark Behavioral Health](https://www.embarkbh.com/locations/outpatient-therapy-phoenix-arizona/), an adolescent outpatient clinic in Phoenix, AZ. There, I provided individual therapy for clients ages 13-25 and co-led three intensive outpatient groups for substance use disorder, social anxiety and obsessive compulsive disorder, and self-injurious behavior. 
 
 At USC, I provide therapy and neuropsychological services through the [USC Psychological Services Center (PSC)](https://dornsife.usc.edu/usc-psc), where I am supervised and trained in culturally-responsive cognitive-behavioral therapy (CBT), dialectical behavioral therapy (DBT), and acceptance and committment therapy (ACT). 
 
