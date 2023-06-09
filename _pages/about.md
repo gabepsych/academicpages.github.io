@@ -22,9 +22,9 @@ Current Projects
 =====
 * My most recent work focuses on the effects of chronic stress on interpersonal emotion dynamics between parents and infants at six-months postpartum.
 
-* In another project, I am working on identifying the biopsychosocial correlates of hair cortisol concentration - a non-invasive measure of HPA axis output and a possible marker of chronic stress. To answer this question, I am applying contemporary machine-learning techniques (e.g., random forest regression) to a high-dimensional cross-sectional sample of mothers and infants from across the United States. 
+* In another project, I am working on identifying the biopsychosocial correlates of hair cortisol concentration - a non-invasive measure of HPA axis output and a possible marker of chronic stress. To answer this question, I am applying contemporary machine-learning techniques (e.g., random forest regression) to a high-dimensional cross-sectional sample of mothers and infants from across the United States. Findings from this study will be highly informative for researchers that use hair cortisol to study stress and health.
 
-* Finally, I am collecting data via ambulatory assessment (i.e., EMA, sleep actigraphy) from a diverse sample of families from the Los Angeles area to study the impact of early life adversity and peripartum trauma on stress coping during daily life.
+* To prepare for dissertation, I am collecting data via ambulatory assessment (i.e., EMA, sleep actigraphy) from a diverse sample of families from the Los Angeles area to study the impact of early life adversity and peripartum trauma on stress coping during daily life.
 
 Clinical Work
 =====
