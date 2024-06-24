@@ -21,7 +21,7 @@ Lines of Inquiry
 - **Interpersonal family dynamics:** What are the bidirectional effects of stress on family members’ synchrony, coordination, and communication? What are the long-term effects of these interpersonal dynamics on family wellbeing and child development?
 - **Biomarkers of Chronic Stress:** Do biomarkers of chronic physiological stress (e.g., hair cortisol concentration) reliability predict parents’ self-reported and behaviorally-observed stress? What are the effects of parents’ stress on children?
 - **Effects of Systemic Stressors on the Family:**  How do extrafamilial stressors (e.g., the COVID-19 pandemic, discrimination, trauma, etc.) affect family wellbeing across time?
-- **Computational Methods in Family Research:** How can researchers capitalize on multimodal, time-intensive data streams collected within and outside the laboratory to increase the effectiveness of clinical family science? I am especially interested in applications of dynamic structural equation modeling (DSEM) applied to ambulatory data (e.g., EMA, sleep actigraphy), machine learning, and natural language processing (NLP) applied to audiovisual data collected during family interactions. 
+- **Computational Methods in Family Research:** How can researchers utilize multimodal, time-intensive data streams collected within and outside the laboratory to increase the effectiveness of clinical family science? I am especially interested in applications of dynamic structural equation modeling (DSEM) applied to ambulatory data (e.g., EMA, sleep actigraphy), machine learning, and natural language processing (NLP) applied to audiovisual data collected during family interactions. 
 
 Clinical Work
 =====
