@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,7 +15,6 @@ Education
 * M.C. in Clinical Mental Health Counseling, Arizona State University, 2021
 * Ph.D in Clinical Science, University of Southern California, 2027 (expected)
 
-CV
 ======
 
 If the embedded PDF doesn't load, you can download my full CV [here](https://github.com/gabepsych/academicpages.github.io/raw/master/GabrielLeon_CV.pdf).
